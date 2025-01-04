@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## About Me
 
-- 🔭 I’m currently working on various composable and headless commerce and B2B Commerce for the world's top Retail and FMCG companies
+- 🔭 I am currently engaged in developing composable and headless commerce solutions, with a particular focus on B2B Commerce, for leading global Retail and FMCG companies.
 - 🌱 I’m constantly learning and improving my skills in solutioning, problem solving, web development, data science, and machine learning
 - 👯 I’m looking to collaborate on exciting and impactful projects
 - 💬 Ask me about:

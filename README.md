@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 💬 Ask me about:
   - Performane Engineering - audit, testing, tuning and optimization
   - Making your system scalable and performant
-  - Cost optimization
+  - IT Cost optimization
   - Enterprise Architecture, Cloud Computing, Digital Transformation
   - Adopting AI/ML in for specific use cases
   - And other software development / tech solutions

@@ -1,4 +1,4 @@
-# Hi there, I'm Techflair! 👋
+# Hi there, I'm Pavan Mistry! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a little bit about me:
 
